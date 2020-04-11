@@ -20,5 +20,4 @@ Parameters:
 
 ------------
 
-</div>
-##### Nova Research Lab @ Yildiz Technical University, Istanbul
+**Nova Research Lab** @ Yildiz Technical University, Istanbul
